@@ -29,11 +29,6 @@ El proyecto consiste en la implementación de las siguientes clases:
 - Inicializar los objetos de manera estática (por ejemplo: `unAlumno.setNombre("Luis")`).
 - Dividir métodos extensos en otros más pequeños si realizan más de una funcionalidad.
 
-## Notas
-
-- Asegurarse de que los métodos solo realicen una funcionalidad.
-- Verificar la validez de la CURP al generar el RFC.
-
 ## Contribuciones
 Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, no dudes en abrir un issue o enviar un pull request. Apreciaré cualquier aporte que ayude a mejorar la calidad del contenido en este repositorio.
 
