@@ -1,4 +1,4 @@
-# Práctica 1 - Laboratorio de Programación Orientada a Objetos
+# Práctica 1
 
 ## Descripción
 
