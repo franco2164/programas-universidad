@@ -1,0 +1,32 @@
+1151018,Sistemas Operativos
+1152002,Investigación de Operaciones II
+1151049,Compiladores
+1154045,Seguridad e Higiene Industrial
+1151046,Sistemas Distribuidos
+1153005,Análisis de Decisiones II
+1151076,Programación Visual Orientada a Eventos
+1154002,Organización Industrial
+1154001,Análisis de Decisiones I
+1151042,Algoritmos y Estructuras de Datos
+1151041,Almacenamiento y Estructuras de Archivos
+1153001,Probabilidad y Estadística
+1154044,Logística
+1154038,Estudio del Método del Trabajo
+1151040,Análisis y Diseño de Algoritmos
+1151044,Programación Orientada a Objetos
+1154031,Planeación de la Producción
+1154016,Estadística Aplicada I
+1154040,Laboratorio de Estudio del Método del Trabajo
+1154039,Estudio de la Medición del Trabajo
+1151048,Análisis y Diseño de Sistemas de Información
+1151047,Bases de Datos
+1151038,Programación Estructurada
+1154032,Administración de la Producción
+1151072,Laboratorio de Programación Orientada a Objetos
+1152001,Investigación de Operaciones I
+1154043,Diseño de Instalaciones y Manejo de Materiales
+1151051,Gráficas por Computadora
+1151039,Métodos Numéricos en Ingeniería
+1154041,Laboratorio de Estudio de la Medición del Trabajo
+1154042,Control de Calidad y Confiabilidad
+1153006,Ingeniería de Costos

@@ -1,0 +1,41 @@
+1121032,Laboratorio de Sistemas Digitales con Microcontroladores
+1124048,Laboratorio de Circuitos Eléctricos II
+1123034,Laboratorio de Electrónica de Potencia
+1121040,Laboratorio de Diseño Lógico
+1123046,Laboratorio de Circuitos Electrónicos II
+1123041,Circuitos Electrónicos II
+1122016,Introducción a las Comunicaciones
+1123021,Microcontroladores
+1122014,Comunicaciones Analógicas
+1122025,Radiación y Propagación
+1124043,Automatización Industrial
+1123052,Fundamentos de Electricidad y Electrónica de Manufactura
+1123056,Laboratorio de Introducción a la Electrónica
+1123043,Diseño de Sistemas Electrónicos
+1124001,Circuitos Eléctricos I
+1121025,Arquitectura de Computadoras
+1122032,Laboratorio de Comunicaciones Digitales
+1122017,Laboratorio de Comunicaciones Analógicas
+1123040,Circuitos Electrónicos I
+1124052,Microelectrónica
+1121038,Fundamentos de Redes de Computadoras
+1123044,Electrónica de Potencia
+1123045,Laboratorio de Circuitos Electrónicos I
+1122012,Procesamiento Digital de Señales
+1121034,Sistemas Digitales con Microcontroladores
+1121060,Microprocesadores
+1121033,Laboratorio de Sistemas Digitales con Microprocesadores
+1122018,Laboratorio de Introducción a las Comunicaciones
+1124050,Teoría de Control
+1121043,Diseño y Administración de Redes de Computadoras
+1124049,Laboratorio de Control
+1124045,Control Digital
+1122015,Comunicaciones Digitales
+1124003,Circuitos Eléctricos II
+1121037,Diseño Lógico
+1123055,Introducción a la Electrónica
+1122009,Análisis de Señales
+1123048,Laboratorio de Diseño de Sistemas Electrónicos
+1124005,Laboratorio de Circuitos Eléctricos I
+1121061,Laboratorio de Microprocesadores
+1123053,Laboratorio de Sistemas Electrónicos de Ingeniería Industrial

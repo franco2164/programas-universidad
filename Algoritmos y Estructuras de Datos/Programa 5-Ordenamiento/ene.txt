@@ -1,0 +1,72 @@
+1131059,Teoría Electromagnética
+1137011,Reactores Homogéneos
+1133016,Diseño de Elementos de Máquinas
+1132031,Ingeniería de Procesos
+1133019,Procesos de Manufactura II
+1132064,Laboratorio de Termofluidos I
+1136013,Contaminación y Restauración de Suelos
+1131072,Modelado de Sistemas Eléctricos de Potencia
+1137008,Equilibrio Termodinámico
+1133020,Taller de Procesos de Manufactura II
+1136009,Taller  de Procesos de Tratamiento de Agua
+1137013,Balance de Materia
+1131073,Laboratorio de Transformadores y Máquinas Síncronas
+1131062,Instalaciones Eléctricas en Baja Tensión
+1134003,Hidráulica de Canales
+1137007,Propiedades Termodinámicas
+1137010,Laboratorio de Procesos
+1131021,Técnicas de Altas Tensiones
+1133048,Mediciones en Ingeniería
+1134004,Laboratorio de Hidráulica de Tuberías
+1133014,Procesos de Manufactura I
+1131086,Sistemas de Potencia en Estado Estable
+1131081,Protecciones Eléctricas
+1132086,Fenómenos de Transporte
+1133003,Laboratorio de Dinámica y Vibraciones
+1133015,Taller de Procesos de Manufactura I
+1131071,Laboratorio de Circuitos Eléctricos de Corriente Alterna
+1137014,Balance de Energía
+1137012,Reactores Heterogéneos
+1131060,Laboratorio de Electromagnetismo
+1136011,Control de  la Contaminación Atmosférica
+1132065,Laboratorio de Termofluidos II
+1135097,Legislación y Gestión Ambiental
+1132001,Mecánica de Fluidos
+1137002,Simulación y Control de Procesos
+1135089,Procesos Fisicoquímicos en Ingeniería Ambiental
+1135062,Evaluación Ambiental de Tecnologías
+1131022,Centrales Eléctricas
+1136014,Taller de Muestreo y Control de Contaminantes Atmosféricos
+1132057,Procesos de Separación II
+1134002,Hidráulica de Tuberías
+1137005,Transferencia de Momento
+1131070,Circuitos Eléctricos de Corriente Alterna
+1137004,Taller de Principios de Ingeniería Química
+1133009,Laboratorio de Mecanismos
+1136015,Taller de Residuos Sólidos Urbanos y Suelos
+1137015,Instalaciones Industriales
+1131074,Transformadores y Máquinas Síncronas
+1135056,Operaciones Unitarias en Ingeniería Ambiental
+1135080,Evaluación de Impacto Ambiental
+1137009,Laboratorio de Operaciones Unitarias
+1131076,Laboratorio de Maquinas de CD y de Inducción
+1135088,Procesos Biológicos en Ingeniería Ambiental
+1132026,Transferencia de Calor
+1132096,Taller de Termofluidos
+1131075,Máquinas de CD y de Inducción
+1136010,Manejo y Tratamiento de Residuos Industriales y Peligrosos
+1132097,Aprovechamientos Hidráulicos
+1133061,Dibujo Mecánico Asistido por Computadora
+1136012,Gestión Integral de Residuos Sólidos Urbanos
+1136006,Ciencias Ambientales y Sustentabilidad
+1132056,Procesos de Separación I
+1132092,Energía Solar Aplicada
+1133049,Metrología para Manufactura
+1136007,Flujo de Energía y Balance de Materia en Procesos Ambientales
+1133060,Mecanismos
+1137019,Procesos Físicos Industriales
+1132091,Diseño de Sistemas Energéticos
+1133002,Dinámica y Vibraciones
+1137006,Termodinámica Aplicada
+1136008,Taller de Análisis de la Calidad del Agua
+1132040,Transferencia de Masa

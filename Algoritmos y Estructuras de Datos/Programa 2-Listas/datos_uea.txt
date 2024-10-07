@@ -1,0 +1,254 @@
+1111013,Dinámica Aplicada,4.5,0
+1111019,Mecánica Estadística,4.5,0
+1111043,Electromagnetismo,4.5,0
+1111044,Aplicaciones del Electromagnetismo,3,0
+1111048,Física Moderna,4.5,0
+1111055,Óptica,4.5,0
+1111069,Laboratorio de Óptica,0,3
+1111078,Introducción a la Física,0,4
+1111079,Cinemática y Dinámica de Partículas,4.5,0
+1111081,Dinámica del Cuerpo Rígido,4.5,0
+1111083,Introducción a la Electrostática y Magnetostática,4.5,0
+1111085,Análisis Vectorial,4.5,0
+1111087,Laboratorio de Física Moderna,0,3
+1111088,Laboratorio de Física Atómica y Molecular,0,3
+1111090,Inducción y Ondas Electromagnéticas,4.5,0
+1111091,Funciones Especiales,4.5,0
+1111092,Laboratorio de Movimiento de una Partícula,0,3
+1111093,Laboratorio del Cuerpo Rígido y Oscilaciones,0,3
+1111094,Laboratorio de Electricidad y Magnetismo,0,3
+1112005,Cálculo de Varias Variables,4.5,3
+1112013,Complementos de Matemáticas,4.5,0
+1112015,Matemáticas Aplicadas para Ingeniería,4.5,0
+1112016,Variable Compleja,3,0
+1112017,Introducción al Álgebra Lineal,4.5,0
+1112022,Lógica,3,0
+1112029,Cálculo Integral,3,3
+1112030,Ecuaciones Diferenciales Ordinarias,4.5,0
+1112033,Matemáticas Discretas,4.5,0
+1112034,Lenguajes y Autómatas,4.5,0
+1112040,Transformada de Laplace y análisis de Fourier,4.5,0
+1112041,Cálculo Vectorial y sus Aplicaciones,6,0
+1112042,Introducción al Cálculo,3.5,4
+1112043,Cálculo Diferencial,3.5,4
+1113018,Química Orgánica I,4.5,0
+1113019,Laboratorio de Química Orgánica I,0,3
+1113021,Laboratorio de Química Orgánica II,0,3
+1113024,Química Orgánica II,4.5,0
+1113046,Termodinámica,3,0
+1113047,Química Inorgánica I,4.5,0
+1113048,Laboratorio de Química Inorgánica I,0,3
+1113049,Química Inorgánica II,4.5,0
+1113050,Laboratorio de Química Inorgánica II,0,3
+1113053,Técnicas de Medición de Composición,0,6
+1113069,Fisicoquímica de los Materiales,4.5,0
+1113070,Laboratorio de Fisicoquímica de los Materiales,4.5,0
+1113073,Laboratorio de Química Analítica,0,3
+1113077,Laboratorio de Microbiología Aplicada,0,6
+1113078,Cinética y Catálisis,4.5,0
+1113079,Laboratorio de Cinética y Catálisis,0,3
+1113082,Microbiología Aplicada,4.5,0
+1113084,Estructura Atómica y Enlace Químico,4.5,0
+1113085,Laboratorio de Reacciones Químicas,0,3
+1113086,Estructura y Propiedades de los Materiales en Ingeniería,3,0
+1113087,Laboratorio de Estructura y Propiedades de los Materiales,0,3
+1113095,Química Ambiental,4.5,0
+1113096,Fundamentos de Química Orgánica y Bioquímica,4.5,0
+1113099,Equilibrio Químico,1.5,3
+1121025,Arquitectura de Computadoras,4.5,0
+1121032,Laboratorio de Sistemas Digitales con Microcontroladores,0,3
+1121033,Laboratorio de Sistemas Digitales con Microprocesadores,0,3
+1121034,Sistemas Digitales con Microcontroladores,4.5,0
+1121037,Diseño Lógico,6,0
+1121038,Fundamentos de Redes de Computadoras,4.5,0
+1121040,Laboratorio de Diseño Lógico,0,6
+1121043,Diseño y Administración de Redes de Computadoras,4.5,3
+1121060,Microprocesadores,4.5,0
+1121061,Laboratorio de Microprocesadores,0,3
+1122009,Análisis de Señales,4.5,0
+1122012,Procesamiento Digital de Señales,3,3
+1122014,Comunicaciones Analógicas,4.5,0
+1122015,Comunicaciones Digitales,4.5,0
+1122016,Introducción a las Comunicaciones,4.5,0
+1122017,Laboratorio de Comunicaciones Analógicas,0,3
+1122018,Laboratorio de Introducción a las Comunicaciones,0,3
+1122025,Radiación y Propagación,4.5,0
+1122032,Laboratorio de Comunicaciones Digitales,0,3
+1123021,Microcontroladores,3,3
+1123034,Laboratorio de Electrónica de Potencia,0,3
+1123040,Circuitos Electrónicos I,4.5,0
+1123041,Circuitos Electrónicos II,4.5,0
+1123043,Diseño de Sistemas Electrónicos,4.5,0
+1123044,Electrónica de Potencia,4.5,0
+1123045,Laboratorio de Circuitos Electrónicos I,0,3
+1123046,Laboratorio de Circuitos Electrónicos II,0,3
+1123048,Laboratorio de Diseño de Sistemas Electrónicos,0,3
+1123052,Fundamentos de Electricidad y Electrónica de Manufactura,4.5,0
+1123053,Laboratorio de Sistemas Electrónicos de Ingeniería Industrial,0,3
+1123055,Introducción a la Electrónica,4.5,0
+1123056,Laboratorio de Introducción a la Electrónica,0,3
+1124001,Circuitos Eléctricos I,4.5,0
+1124003,Circuitos Eléctricos II,4.5,0
+1124005,Laboratorio de Circuitos Eléctricos I,0,3
+1124043,Automatización Industrial,3,3
+1124045,Control Digital,3,3
+1124048,Laboratorio de Circuitos Eléctricos II,0,3
+1124049,Laboratorio de Control,0,3
+1124050,Teoría de Control,4.5,0
+1124052,Microelectrónica,3,3
+1131021,Técnicas de Altas Tensiones,4.5,0
+1131022,Centrales Eléctricas,4.5,0
+1131059,Teoría Electromagnética,4.5,0
+1131060,Laboratorio de Electromagnetismo,0,3
+1131062,Instalaciones Eléctricas en Baja Tensión,4.5,0
+1131070,Circuitos Eléctricos de Corriente Alterna,4.5,0
+1131071,Laboratorio de Circuitos Eléctricos de Corriente Alterna,0,3
+1131072,Modelado de Sistemas Eléctricos de Potencia,4.5,0
+1131073,Laboratorio de Transformadores y Máquinas Síncronas,0,3
+1131074,Transformadores y Máquinas Síncronas,4.5,0
+1131075,Máquinas de CD y de Inducción,3,0
+1131076,Laboratorio de Maquinas de CD y de Inducción,0,3
+1131081,Protecciones Eléctricas,4.5,0
+1131086,Sistemas de Potencia en Estado Estable,4.5,0
+1132001,Mecánica de Fluidos,4.5,0
+1132026,Transferencia de Calor,4.5,0
+1132031,Ingeniería de Procesos,3,3
+1132040,Transferencia de Masa,4.5,0
+1132056,Procesos de Separación I,4.5,0
+1132057,Procesos de Separación II,4.5,0
+1132064,Laboratorio de Termofluidos I,0,3
+1132065,Laboratorio de Termofluidos II,0,3
+1132086,Fenómenos de Transporte,4.5,0
+1132091,Diseño de Sistemas Energéticos,4.5,0
+1132092,Energía Solar Aplicada,4.5,0
+1132096,Taller de Termofluidos,0,6
+1132097,Aprovechamientos Hidráulicos,4.5,0
+1133002,Dinámica y Vibraciones,4.5,0
+1133003,Laboratorio de Dinámica y Vibraciones,0,3
+1133009,Laboratorio de Mecanismos,0,3
+1133014,Procesos de Manufactura I,4.5,0
+1133015,Taller de Procesos de Manufactura I,0,3
+1133016,Diseño de Elementos de Máquinas,4.5,0
+1133019,Procesos de Manufactura II,4.5,0
+1133020,Taller de Procesos de Manufactura II,0,3
+1133048,Mediciones en Ingeniería,2,2
+1133049,Metrología para Manufactura,3,0
+1133060,Mecanismos,4.5,0
+1133061,Dibujo Mecánico Asistido por Computadora,3,3
+1134002,Hidráulica de Tuberías,4.5,0
+1134003,Hidráulica de Canales,4.5,0
+1134004,Laboratorio de Hidráulica de Tuberías,0,3
+1135056,Operaciones Unitarias en Ingeniería Ambiental,4.5,0
+1135062,Evaluación Ambiental de Tecnologías,4.5,0
+1135080,Evaluación de Impacto Ambiental,4.5,0
+1135088,Procesos Biológicos en Ingeniería Ambiental,4.5,0
+1135089,Procesos Fisicoquímicos en Ingeniería Ambiental,4.5,0
+1135097,Legislación y Gestión Ambiental,4.5,0
+1136006,Ciencias Ambientales y Sustentabilidad,4.5,0
+1136007,Flujo de Energía y Balance de Materia en Procesos Ambientales,3,0
+1136008,Taller de Análisis de la Calidad del Agua,0,9
+1136009,Taller  de Procesos de Tratamiento de Agua,0,9
+1136010,Manejo y Tratamiento de Residuos Industriales y Peligrosos,4.5,0
+1136011,Control de  la Contaminación Atmosférica,4.5,0
+1136012,Gestión Integral de Residuos Sólidos Urbanos,4.5,0
+1136013,Contaminación y Restauración de Suelos,4.5,0
+1136014,Taller de Muestreo y Control de Contaminantes Atmosféricos,0,9
+1136015,Taller de Residuos Sólidos Urbanos y Suelos,0,9
+1137002,Simulación y Control de Procesos,3,3
+1137004,Taller de Principios de Ingeniería Química,0,3
+1137005,Transferencia de Momento,4.5,0
+1137006,Termodinámica Aplicada,4.5,0
+1137007,Propiedades Termodinámicas,4.5,0
+1137008,Equilibrio Termodinámico,4.5,0
+1137009,Laboratorio de Operaciones Unitarias,0,6
+1137010,Laboratorio de Procesos,0,6
+1137011,Reactores Homogéneos,4.5,0
+1137012,Reactores Heterogéneos,4.5,0
+1137013,Balance de Materia,2.5,2
+1137014,Balance de Energía,2.5,2
+1137015,Instalaciones Industriales,4.5,0
+1137019,Procesos Físicos Industriales,4.5,0
+1142006,Mecánica de Sólidos I,4.5,0
+1142020,Taller de Ingeniería Civil I,0,6
+1142024,Mecánica de Sólidos II,4.5,0
+1142025,Laboratorio de Mecánica de Sólidos,0,3
+1142037,Ingeniería de Materiales en Construcción,4.5,0
+1142038,Laboratorio de Concreto,0,3
+1142039,Costos y Presupuestos de Obra,4.5,0
+1142040,Planeación  Programación y Control de Obras,4.5,0
+1142042,Topografía,4.5,3
+1143033,Elementos de Acero,3,0
+1143035,Estructuras Isostáticas,3,0
+1143042,Estática,4.5,0
+1143052,Dibujo Asistido con Computadora en Ingeniería Civil,1.5,3
+1143053,Diseño Estructural,3,0
+1143055,Planeación Estratégica de Infraestructura en Ingeniería Civil,4.5,0
+1143056,Análisis Estructural,4.5,0
+1143057,Elementos de Concreto,4.5,0
+1144012,Laboratorio de Geotecnia,0,3
+1144029,Fundamentos de Geotecnia,4.5,0
+1144030,Ingeniería Geotécnica,4.5,0
+1145001,Metalografía,0,6
+1145031,Control de Calidad,3,0
+1145052,Cristales y Dislocaciones,3,0
+1145053,Termodinámica y Cinética en Metalurgia,3,0
+1145054,Ingeniería de los Materiales,4.5,0
+1145055,Laboratorio de Ingeniería de los Materiales,0,3
+1145056,Comportamiento Mecánico de los Materiales,4.5,0
+1145057,Laboratorio de Comportamiento Mecánico de los Materiales,0,3
+1145058,Transformaciones de Fase en los Materiales Metálicos,3,3
+1145059,Termotransferencia en Procesos Metalúrgicos,3,0
+1145060,Plasticidad de los Materiales Metálicos,4.5,0
+1145061,Laboratorio de Plasticidad de los Materiales Metálicos,0,3
+1145062,Mecánica de Fluidos en Procesos Metalúrgicos,3,0
+1145063,Metalurgia de las Aleaciones no Ferrosas,4.5,0
+1145064,Laboratorio de Metalurgia de las Aleaciones no Ferrosas,0,3
+1145065,Metalurgia del Hierro,3,0
+1145066,Metalurgia Mecánica,4.5,0
+1145068,Fundición de los Materiales Metálicos,4.5,3
+1145069,Laboratorio de Fundición de los Materiales Metálicos,0,3
+1145070,Laboratorio de Procesos de Formado de Materiales Metálicos,0,3
+1145071,Oxidación Corrosión y Protección de los Materiales Metálicos,3,0
+1145072,Laboratorio de Oxidación  Corrosión y Protección de los Materiales Metálicos,0,3
+1145073,Procesos de  Formado de los Materiales Metálicos,4.5,0
+1145075,Laboratorio de Tratamientos Térmicos de los Materiales Metálicos,0,6
+1145076,Laboratorio de Control de Calidad,0,3
+1145077,Metalurgia Computacional,3,0
+1145078,Laboratorio de Metalurgia Computacional,0,3
+1145079,Trabajo en Planta Metalúrgica,0,40
+1146026,Metalurgia del Acero,4.5,0
+1146039,Metalurgia Extractiva,4.5,0
+1146040,Tratamientos Térmicos de los Materiales Metálicos,6,0
+1146041,Laboratorio de Metalurgia Mecánica,0,3
+1151018,Sistemas Operativos,4.5,0
+1151038,Programación Estructurada,2.5,2
+1151039,Métodos Numéricos en Ingeniería,2.5,2
+1151040,Análisis y Diseño de Algoritmos,4.5,0
+1151041,Almacenamiento y Estructuras de Archivos,3.5,1
+1151042,Algoritmos y Estructuras de Datos,3.5,1
+1151044,Programación Orientada a Objetos,3.5,1
+1151046,Sistemas Distribuidos,3,3
+1151047,Bases de Datos,4.5,3
+1151048,Análisis y Diseño de Sistemas de Información,3.5,1
+1151049,Compiladores,4.5,0
+1151051,Gráficas por Computadora,4.5,0
+1151072,Laboratorio de Programación Orientada a Objetos,0,3
+1151076,Programación Visual Orientada a Eventos,2.5,2
+1152001,Investigación de Operaciones I,4.5,0
+1152002,Investigación de Operaciones II,4.5,0
+1153001,Probabilidad y Estadística,4.5,0
+1153005,Análisis de Decisiones II,4.5,0
+1153006,Ingeniería de Costos,4.5,0
+1154001,Análisis de Decisiones I,4.5,0
+1154002,Organización Industrial,4.5,0
+1154016,Estadística Aplicada I,4.5,0
+1154031,Planeación de la Producción,4.5,0
+1154032,Administración de la Producción,3,0
+1154038,Estudio del Método del Trabajo,3,0
+1154039,Estudio de la Medición del Trabajo,3,0
+1154040,Laboratorio de Estudio del Método del Trabajo,0,3
+1154041,Laboratorio de Estudio de la Medición del Trabajo,0,3
+1154042,Control de Calidad y Confiabilidad,3.5,1
+1154043,Diseño de Instalaciones y Manejo de Materiales,3.5,1
+1154044,Logística,3.5,1
+1154045,Seguridad e Higiene Industrial,3.5,1

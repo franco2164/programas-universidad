@@ -1,0 +1,57 @@
+1111081,Dinámica del Cuerpo Rígido
+1112029,Cálculo Integral
+1111088,Laboratorio de Física Atómica y Molecular
+1112040,Transformada de Laplace y análisis de Fourier
+1112043,Cálculo Diferencial
+1111044,Aplicaciones del Electromagnetismo
+1113096,Fundamentos de Química Orgánica y Bioquímica
+1113085,Laboratorio de Reacciones Químicas
+1113082,Microbiología Aplicada
+1113047,Química Inorgánica I
+1111043,Electromagnetismo
+1113049,Química Inorgánica II
+1112034,Lenguajes y Autómatas
+1112042,Introducción al Cálculo
+1111079,Cinemática y Dinámica de Partículas
+1111091,Funciones Especiales
+1111019,Mecánica Estadística
+1113021,Laboratorio de Química Orgánica II
+1113019,Laboratorio de Química Orgánica I
+1113087,Laboratorio de Estructura y Propiedades de los Materiales
+1111094,Laboratorio de Electricidad y Magnetismo
+1111090,Inducción y Ondas Electromagnéticas
+1111093,Laboratorio del Cuerpo Rígido y Oscilaciones
+1112033,Matemáticas Discretas
+1111013,Dinámica Aplicada
+1111078,Introducción a la Física
+1113077,Laboratorio de Microbiología Aplicada
+1111092,Laboratorio de Movimiento de una Partícula
+1111085,Análisis Vectorial
+1111055,Óptica
+1113050,Laboratorio de Química Inorgánica II
+1113024,Química Orgánica II
+1112030,Ecuaciones Diferenciales Ordinarias
+1112005,Cálculo de Varias Variables
+1111083,Introducción a la Electrostática y Magnetostática
+1113048,Laboratorio de Química Inorgánica I
+1111069,Laboratorio de Óptica
+1113095,Química Ambiental
+1112022,Lógica
+1113069,Fisicoquímica de los Materiales
+1111087,Laboratorio de Física Moderna
+1112041,Cálculo Vectorial y sus Aplicaciones
+1113018,Química Orgánica I
+1112013,Complementos de Matemáticas
+1113073,Laboratorio de Química Analítica
+1113070,Laboratorio de Fisicoquímica de los Materiales
+1113046,Termodinámica
+1113099,Equilibrio Químico
+1112016,Variable Compleja
+1113078,Cinética y Catálisis
+1113053,Técnicas de Medición de Composición
+1113084,Estructura Atómica y Enlace Químico
+1113079,Laboratorio de Cinética y Catálisis
+1113086,Estructura y Propiedades de los Materiales en Ingeniería
+1111048,Física Moderna
+1112015,Matemáticas Aplicadas para Ingeniería
+1112017,Introducción al Álgebra Lineal

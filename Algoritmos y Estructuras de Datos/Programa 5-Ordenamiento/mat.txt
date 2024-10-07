@@ -1,0 +1,52 @@
+1146026,Metalurgia del Acero
+1145071,Oxidación, Corrosión y Protección de los Materiales Metálicos
+1142037,Ingeniería de Materiales en Construcción
+1143055,Planeación Estratégica de Infraestructura en Ingeniería Civil
+1143052,Dibujo Asistido con Computadora en Ingeniería Civil
+1145054,Ingeniería de los Materiales
+1145059,Termotransferencia en Procesos Metalúrgicos
+1145079,Trabajo en Planta Metalúrgica
+1142025,Laboratorio de Mecánica de Sólidos
+1146040,Tratamientos Térmicos de los Materiales Metálicos
+1145057,Laboratorio de Comportamiento Mecánico de los Materiales
+1145056,Comportamiento Mecánico de los Materiales
+1145069,Laboratorio de Fundición de los Materiales Metálicos
+1145064,Laboratorio de Metalurgia de las Aleaciones no Ferrosas
+1142039,Costos y Presupuestos de Obra
+1142042,Topografía
+1145053,Termodinámica y Cinética en Metalurgia
+1145065,Metalurgia del Hierro
+1143035,Estructuras Isostáticas
+1145058,Transformaciones de Fase en los Materiales Metálicos
+1145001,Metalografía
+1145075,Laboratorio de Tratamientos Térmicos de los Materiales Metálicos
+1145061,Laboratorio de Plasticidad de los Materiales Metálicos
+1142040,Planeación, Programación y Control de Obras
+1143056,Análisis Estructural
+1144012,Laboratorio de Geotecnia
+1145077,Metalurgia Computacional
+1145076,Laboratorio de Control de Calidad
+1145070,Laboratorio de Procesos de Formado de Materiales Metálicos
+1145062,Mecánica de Fluidos en Procesos Metalúrgicos
+1145063,Metalurgia de las Aleaciones no Ferrosas
+1143042,Estática
+1146039,Metalurgia Extractiva
+1144030,Ingeniería Geotécnica
+1143053,Diseño Estructural
+1145052,Cristales y Dislocaciones
+1142006,Mecánica de Sólidos I
+1143057,Elementos de Concreto
+1145073,Procesos de  Formado de los Materiales Metálicos
+1145031,Control de Calidad
+1145060,Plasticidad de los Materiales Metálicos
+1145072,Laboratorio de Oxidación, Corrosión y Protección de los Materiales Metálicos
+1145068,Fundición de los Materiales Metálicos
+1142020,Taller de Ingeniería Civil I
+1142038,Laboratorio de Concreto
+1145055,Laboratorio de Ingeniería de los Materiales
+1146041,Laboratorio de Metalurgia Mecánica
+1142024,Mecánica de Sólidos II
+1145078,Laboratorio de Metalurgia Computacional
+1145066,Metalurgia Mecánica
+1144029,Fundamentos de Geotecnia
+1143033,Elementos de Acero
