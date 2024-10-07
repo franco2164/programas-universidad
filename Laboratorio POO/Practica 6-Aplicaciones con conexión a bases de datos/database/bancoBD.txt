@@ -1,0 +1,42 @@
+-- Crear la base de datos
+CREATE DATABASE banco;
+
+-- Seleccionar la base de datos
+USE banco;
+
+-- Crear la tabla 'cuenta'
+CREATE TABLE cuenta (
+    numCuenta VARCHAR(4) NOT NULL,
+    nombre VARCHAR(50) NOT NULL,
+    apellido VARCHAR(50) NOT NULL,
+    saldo DECIMAL(10, 2),
+    sucursalApertura VARCHAR(50) NOT NULL,
+    PRIMARY KEY(numCuenta)
+);
+
+-- Insertar los datos en la tabla 'cuenta'
+INSERT INTO cuenta (numCuenta, nombre, apellido, saldo, sucursalApertura) VALUES
+('1020', 'Juan', 'Hidalgo', 1780, 'AZC'),
+('1021', 'Luis', 'Castro', 2258, 'AZC'),
+('1120', 'María', 'Villanueva', 1698, 'CUA'),
+('1121', 'Guillermo', 'Parra', 880, 'CUA'),
+('1220', 'Jorge', 'Padilla', 4710, 'XOC'),
+('1221', 'Fernanda', 'Oseguera', 3690, 'XOC'),
+('1222', 'Alondra', 'Rojas', 1200, 'XOC'),
+('1022', 'Jaime', 'Ortiz', 1250, 'AZC'),
+('1122', 'Lucia', 'Guerrero', 800, 'CUA'),
+('1123', 'Gina', 'Morales', 900, 'CUA'),
+('1124', 'Alberto', 'Cuadros', 1100, 'CUA'),
+('1125', 'Milton', 'Quiroz', 1600, 'CUA'),
+('1223', 'Andrea', 'Cardona', 1350, 'XOC'),
+('1224', 'Pedro', 'Flores', 1150, 'XOC'),
+('1024', 'Luis', 'Piza', 1600, 'AZC'),
+('1025', 'Jorge', 'Fuentes', 1400, 'AZC'),
+('1126', 'Alicia', 'Martínez', 1250, 'CUA'),
+('1127', 'Oscar', 'Pérez', 1457, 'CUA'),
+('1128', 'Samuel', 'Vieyra', 1697, 'CUA'),
+('1225', 'Noé', 'Castro', 1236, 'XOC'),
+('1226', 'Raúl', 'Pinto', 1345, 'XOC'),
+('1227', 'Mireya', 'Vidal', 1310, 'XOC');
+
+SELECT * FROM cuenta;
