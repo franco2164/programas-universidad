@@ -19,7 +19,7 @@ Este repositorio contiene ejercicios y prácticas de diversas materias que he cu
 
 1. Clona el repositorio en tu máquina local utilizando el siguiente comando:
    ```bash
-   git clone (https://github.com/cris7cf/programas-universidad.git)
+   git clone https://github.com/cris7cf/programas-universidad.git
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, no dudes en abrir un issue o enviar un pull request. Apreciaré cualquier aporte que ayude a mejorar la calidad del contenido en este repositorio.
