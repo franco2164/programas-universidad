@@ -45,12 +45,6 @@ Esta práctica consiste en desarrollar una aplicación en Java para gestionar lo
 - Mantener los métodos lo más concisos posible, dividiendo funcionalidades si es necesario.
 - La clase `Principal` solo debe manejar la entrada y salida de datos, sin realizar cálculos u operaciones.
 
-## Entregables
-
-- Código del proyecto completo en Java.
-- Diagrama UML con las clases, atributos y métodos.
-- Documentación generada con Javadoc.
-
 ## Contribuciones
 Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, no dudes en abrir un issue o enviar un pull request. Apreciaré cualquier aporte que ayude a mejorar la calidad del contenido en este repositorio.
 
