@@ -44,7 +44,7 @@ La universidad solicita poder realizar las siguientes consultas:
 - **nodo.hpp**: Contiene la estructura de un nodo.
 - **uea.hpp**: Contiene la esructura de una uea.
 - **datos_uea.txt**: Contiene los datos de las uea que se van a gestionar.
-- **README.md**: Este archivo, que proporciona información general sobre el proyecto.
+- **README.md**: Este archivo, que proporciona información general sobre el programa.
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, no dudes en abrir un issue o enviar un pull request. Apreciaré cualquier aporte que ayude a mejorar la calidad del contenido en este repositorio.
