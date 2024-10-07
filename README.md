@@ -21,7 +21,7 @@ Este repositorio contiene ejercicios y prácticas de diversas materias que he cu
    ```bash
    git clone (https://github.com/cris7cf/programas-universidad.git)
 
-##Contribuciones
+## Contribuciones
 Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, no dudes en abrir un issue o enviar un pull request. Apreciaré cualquier aporte que ayude a mejorar la calidad del contenido en este repositorio.
 
 ## 🌐 Connect with me:
